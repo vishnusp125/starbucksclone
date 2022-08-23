@@ -1,0 +1,50 @@
+*{
+    max-width: 100%;
+}
+a {
+    text-decoration: none;
+    
+}
+.notification-bar{
+    height:10px;
+    background-color: #006341;
+}
+
+.parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px 110px;
+}
+.btn-dark{
+    outline: none;
+    border-radius:0;
+}
+.small-image2-div{
+    display: flex;
+}
+.p{
+    font-family: 'Crete Round',Georgia,'Times New Roman',serif;
+    font-style: italic;
+}
+.nav-item{
+    padding-left:4px;
+
+}
+.copyright{
+    font-size: .714286em;
+    color: #666;
+    padding-bottom: 2rem;
+}
+.smallimagep1{
+    padding-bottom:6rem;
+
+}
+.smallimagep2{
+    padding-bottom: 6rem;
+
+}
+
+
+    
+
